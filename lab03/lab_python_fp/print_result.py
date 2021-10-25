@@ -9,6 +9,7 @@ def print_result(func_to_decorate):
                 print(k, '=', v)
         else:
             print(res)
+        return res    
 
     return wrapper
 
