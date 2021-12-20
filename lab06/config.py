@@ -2,7 +2,7 @@ from enum import Enum
 
 
 
-token = '2116447075:AAGaAObBa1r_XlmRMRYuW1j3nT6Ul53ZiiM'
+token = ''
 db_file = 'database.vdb'
 
 
